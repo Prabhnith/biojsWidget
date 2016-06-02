@@ -1,5 +1,5 @@
 var fasta_root = IPython.notebook.base_url + 'nbextensions/biojs-io-fasta/src'
-var fasta_path = fasta_root + '/index2'
+var fasta_path = fasta_root + '/index'
 
 //console.log(fasta_path);
 require.config({
