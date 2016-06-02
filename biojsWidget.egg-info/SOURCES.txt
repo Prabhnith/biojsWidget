@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+biojsWidget/__init__.py
+biojsWidget/biojsWidget.py
+biojsWidget/install.py
+biojsWidget.egg-info/PKG-INFO
+biojsWidget.egg-info/SOURCES.txt
+biojsWidget.egg-info/dependency_links.txt
+biojsWidget.egg-info/not-zip-safe
+biojsWidget.egg-info/requires.txt
+biojsWidget.egg-info/top_level.txt

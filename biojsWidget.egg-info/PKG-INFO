@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: biojsWidget
+Version: 0.1.0
+Summary: IPython widget for biojs
+Home-page: UNKNOWN
+Author: Rohan Jaswal
+Author-email: rohanjaswal2507@gmail.com
+License: Apache
+Description: UNKNOWN
+Keywords: biojsWidget ipython jupyter
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
